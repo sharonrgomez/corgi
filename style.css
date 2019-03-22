@@ -1,5 +1,5 @@
 body {
-  background-color: #f5d9df;
+  background-color: rgb(200, 230, 255);
   font-family: "Nunito", sans-serif;
 }
 
@@ -9,8 +9,9 @@ body {
 }
 
 #mainNav .navbar-brand {
-  color: #ea1c2c;
+  color: rgb(130, 60, 60);
   font-size: 1.5rem;
+  font-weight: 700;
 }
 
 #mainNav .nav-link {
@@ -18,11 +19,11 @@ body {
 }
 
 #mainNav .nav-link:hover {
-  color: #ea1c2c;
+  color: rgb(130, 60, 60);
 }
 
 #mainNav.scrolled {
-  background: rgba(222,192,222);
+  background: rgb(220, 210, 250);
   transition: background 500ms;
 }
 
@@ -49,12 +50,12 @@ body {
 }
 
 #headingText span {
-  color: #ea1c2c;
+  color: rgb(130, 60, 60);
 }
 
 #summary h2, p {
   font-weight: 100;
-  color: #ea1c2c;
+  color: rgb(130, 60, 60);
 }
 
 #summary i {
