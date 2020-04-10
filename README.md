@@ -6,7 +6,7 @@ A simple webpage designed to demonstrate responsiveness using Bootstrap 4
 
 [https://shaerins.github.io/projs/corgi/](https://shaerins.github.io/projs/corgi/)
 
-## This page was built with
+## Built with
 
  * Bootstrap 4
  * HTML
